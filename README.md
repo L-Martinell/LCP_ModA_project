@@ -3,7 +3,7 @@ Project for the first half of the course Laboratory of Computational Physics, pa
 Project carried out by Maria Camila Paris Diaz, Arina Ponomareva, Marco Tavis Foster, and Lorenzo Martinelli.
 
 
-## Aim of the Project
+## Outline
 This project's main goal is to produce a highly-accurate simulation of an electron-positron scattering producing a muon-antimuon pair. The dynamics of the process involves a beam of positrons being shot onto a stationary (in the laboratory frame) target, leading to the emergence of a muonic pair due to the energy of the center of mass of the system being roughly the same as the mass of the emerging particles.
 The whole project has been carried out in Python and it is articulated in six main sections:
 * Compute the leading-order cross section as a function of the scattering angle, using the energy of the center of mass as a parameter.
