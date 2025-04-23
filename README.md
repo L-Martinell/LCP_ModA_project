@@ -1,6 +1,7 @@
 # LCP_ModA_project
+Authors: Maria Camila Paris Diaz, Arina Ponomareva, Marco Tavis Foster, and Lorenzo Martinelli.
+
 Project for the first half of the course Laboratory of Computational Physics, part of the master's degree cycle in Physics of Data delivered at UNIPD.
-Project carried out by Maria Camila Paris Diaz, Arina Ponomareva, Marco Tavis Foster, and Lorenzo Martinelli.
 
 
 ## Outline
